@@ -1,6 +1,6 @@
 ﻿
 ## Bootcamp de redes
-#### Juan José Herrera Rodríguez 
+#### Juan José Herrera Rodríguez
 #### Carnet B83878
 
 1- Según Kirch y Dawson (2000) una interfaz de red consiste en una interfaz abstracta por donde se puede acceder a un hardware que se utiliza en un entorno de red. El conjunto de operaciones que ofrece una interfaz de red son iguales para todos los tipos de hardware y en donde se trata con el envío y recepción de paquetes. Una interfaz de red se identifica por medio de una dirección IP, que es distinta al nombre de la interfaz (pp. 59).
@@ -28,7 +28,7 @@ Interfaces de red en el computador según los apéndices **A** y **B**:
 
 Hosts y redes por cada Interfaz de red en el computador según los apéndices **A** y **B**:
 
-**en0**: 
+**en0**:
 - red: 192.168.1.0
 - host: 7
 
@@ -37,7 +37,7 @@ Hosts y redes por cada Interfaz de red en el computador según los apéndices **
 **en1**
 **en2**
 **bridge0**
-**awdl0** 
+**awdl0**
 **llw0**
 **utun0**
 **utun1**
@@ -51,7 +51,7 @@ Hosts y redes por cada Interfaz de red en el computador según los apéndices **
 En el apéndice **G** se puede ver el comando para verificar si hay un firewall operativo en la máquina. En el apéndice **H** se observa el comando para habilitar el firewall y en el apéndice **I** se ve el comando para desabilitar el firewall.
 
 5- Según Mitchel (2015) un puerto es un conector externo o interno para comunicar dispositivos físicos o digitales. Por estos medios se envían y se reciben datos. Según Chavez (2016) los puertos bien conocidos son puertos cuyo rango va del 0 al 123. Estos se encuentran reservados para protocolos ya establecidos como HTTP y SSH.
- 
+
 6- En el apéndice **C** se puede ver como la máquina B se queda escuchando en el puerto 10002 a recibir un mensaje de la máquina A y la máquina B le contesta una vez recibe el mensaje de la máquina A.
 
 En el apéndice **D** puede ver como la máquina A se queda escuchando en el puerto 2000 a recibir un mensaje de la máquina B y la máquina A le contesta una vez recibe el mensaje de la máquina B.
@@ -72,44 +72,44 @@ Liu, A. X., Gouda, M. G., Ma, H. H., & Ngu, A. H. (2004, December). Firewall que
 Mitchell, B. (2015). _Computer Ports and Their Role in Computer Networking_. Lifewire. https://www.lifewire.com/computer-port-usage-817366
 ### Apéndices
 **A**
-`![](``captura1``.png)`
+![](``captura1``.png)
 
 **B**
-`![](``captura2``.png)`
+![](``captura2``.png)
 
 **C**
-`![](``captura3``.png)`
+![](``captura3``.png)
 
 **D**
-`![](``captura4``.png)`
+![](``captura4``.png)
 
 **E**
-`![](``captura5``.png)`
+![](``captura5``.png)
 
 **F**
-`![](``captura6``.png)`
+![](``captura6``.png)
 
 **G**
-`![](``captura7``.png)`
+![](``captura7``.png)
 
 **H**
-`![](``captura8``.png)`
+![](``captura8``.png)
 
 **I**
-`![](``captura9``.png)`
+![](``captura9``.png)
 
 **J**
-`![](``captura10``.png)`
+![](``captura10``.png)
 
 **K**
-`![](``captura11``.png)`
+![](captura11.png)
 
 
 **M**
-`![](``captura12``.png)`
+![](``captura12``.png)
 
 **N**
-`![](``captura13``.png)`
+![](``captura13``.png)
 
 **O**
-`![](``captura14``.png)`
+![](``captura14``.png)
