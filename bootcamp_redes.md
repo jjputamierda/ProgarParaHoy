@@ -77,7 +77,9 @@ Mitchell, B. (2015). _Computer Ports and Their Role in Computer Networking_. Lif
 **B**
 ![](captura2.png)
 
+
 **C**
+
 ![](captura3.png)
 
 **D**
