@@ -72,44 +72,44 @@ Liu, A. X., Gouda, M. G., Ma, H. H., & Ngu, A. H. (2004, December). Firewall que
 Mitchell, B. (2015). _Computer Ports and Their Role in Computer Networking_. Lifewire. https://www.lifewire.com/computer-port-usage-817366
 ### Apéndices
 **A**
-![](``captura1``.png)
+![](captura1.png)
 
 **B**
-![](``captura2``.png)
+![](captura2.png)
 
 **C**
-![](``captura3``.png)
+![](captura3.png)
 
 **D**
-![](``captura4``.png)
+![](captura4.png)
 
 **E**
-![](``captura5``.png)
+![](captura5.png)
 
 **F**
-![](``captura6``.png)
+![](captura6.png)
 
 **G**
-![](``captura7``.png)
+![](captura7.png)
 
 **H**
-![](``captura8``.png)
+![](captura8.png)
 
 **I**
-![](``captura9``.png)
+![](captura9.png)
 
 **J**
-![](``captura10``.png)
+![](captura10.png)
 
 **K**
 ![](captura11.png)
 
 
 **M**
-![](``captura12``.png)
+![](captura12.png)
 
 **N**
-![](``captura13``.png)
+![](captura13.png)
 
 **O**
-![](``captura14``.png)
+![](captura14.png)
