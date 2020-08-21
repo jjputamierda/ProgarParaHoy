@@ -50,7 +50,7 @@ Hosts y redes por cada Interfaz de red en el computador según los apéndices **
 4- Según Liu et Al (2004) Un firewall consiste en un software o hardware que comprueba la información de una red para ver si es conveniente bloquearla o no.
 En el apéndice **G** se puede ver el comando para verificar si hay un firewall operativo en la máquina. En el apéndice **H** se observa el comando para habilitar el firewall y en el apéndice **I** se ve el comando para desabilitar el firewall.
 
-5- Según Mitchel (2015) un puerto es un conector externo o interno para comunicar dispositivos físicos o digitales. Por estos medios se envían y se reciben datos. Según Chavez (2016) los puertos bien conocidos son puertos cuyo rango va del 0 al 123. Estos se encuentran reservados para protocolos ya establecidos como HTTP y SSH.
+5- Según Mitchel (2015) un puerto es un conector externo o interno para comunicar dispositivos físicos o digitales. Por estos medios se envían y se reciben datos. Según Chavez (2016) los puertos bien conocidos son puertos cuyo rango va del 0 al 123. Estos se encuentran reservados para protocolos ya establecidos como HTTP y SSH. Si se usa el puerto n en TCP,  puede utilizar al mismo tiempo en UDP ya que  son protocolos diferentes. Siempre y cuando se utilicen para servicios diferentes, es posible conectar los 2 al mismo tiempo en el mismo instante.
 
 6- En el apéndice **C** se puede ver como la máquina B se queda escuchando en el puerto 10002 a recibir un mensaje de la máquina A y la máquina B le contesta una vez recibe el mensaje de la máquina A.
 
@@ -67,10 +67,11 @@ Kirch, O., & Dawson, T. (2000). Guía de 		Administración de Redes con Linux. _
 
 Latin@s en Linz. (2017). _¿Para que se Utiliza la interfaz Loopback en protocolos de ruteo dinámico como OSPF?_ segweb.blogspot. http://segweb.blogspot.com/2011/10/si-tienes-informacion-adicional-sobre_17.html
 
-Liu, A. X., Gouda, M. G., Ma, H. H., & Ngu, A. H. (2004, December). Firewall queries. In _International Conference On Principles Of DIstributed Systems_ (pp. 197-212). Springer, Berlin, Heidelberg.### Apendices
+Liu, A. X., Gouda, M. G., Ma, H. H., & Ngu, A. H. (2004, December). Firewall queries. In _International Conference On Principles Of DIstributed Systems_ (pp. 197-212). Springer, Berlin, Heidelberg.
 
 Mitchell, B. (2015). _Computer Ports and Their Role in Computer Networking_. Lifewire. https://www.lifewire.com/computer-port-usage-817366
 ### Apéndices
+
 **A**
 ![](captura1.png)
 
